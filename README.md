@@ -47,7 +47,7 @@ npm install
 npm start
 ```
 
-## Ouvrez votre navigateur et allez sur http://localhost:5173 pour voir le projet en action.
+Ouvrez votre navigateur et allez sur http://localhost:5173 pour voir le projet en action.
 
 ## Auteur
 
